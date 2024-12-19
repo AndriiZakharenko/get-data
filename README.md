@@ -20,4 +20,4 @@
 
 ### Demo links
 
-- [Demo](https://AndriiZakharenko.github.io/get_data/)
+- [Demo](https://AndriiZakharenko.github.io/get-data/)
